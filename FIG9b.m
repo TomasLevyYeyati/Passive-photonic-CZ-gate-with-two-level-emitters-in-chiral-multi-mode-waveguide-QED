@@ -1,4 +1,4 @@
-% This code computes the plots of Fig. 8b
+% This code computes the plots of Fig. 9b
 % It gives the fidelity of the gate, using linear scatterer beam splitters,
 % for N emitters and \Delta k==Dk, given a bandwidth Sigma, considering the
 % effect of uneven coupling of the emiters inmto the channels \Delta \Gamma=2 Xi.
